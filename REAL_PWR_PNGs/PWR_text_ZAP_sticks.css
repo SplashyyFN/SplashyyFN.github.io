@@ -107,7 +107,7 @@
 }
 
 .xbox .back, .xbox .start {
-    background: url(pwr_quadrant1.png);
+    background: url(pwr_start1.png);
     width: 33px;
     height: 33px;
     opacity: 0;
