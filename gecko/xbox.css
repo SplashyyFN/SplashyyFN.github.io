@@ -137,7 +137,7 @@
 .xbox .button {
     position: absolute;
     background: url(abxy.png);
-    width: 48px;
+    width: 49px;
     height: 48px;
 }
 
@@ -184,7 +184,7 @@
     background: url(stick.png);
     background-position: -85px 0;
     height: 83px;
-    width: 83px;
+    width: 84px;
 }
 
 .xbox .stick.pressed {
